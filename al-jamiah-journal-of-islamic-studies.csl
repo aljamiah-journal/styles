@@ -9,8 +9,8 @@
     <link href="http://aljamiah.or.id/index.php/AJIS/about/submissions#authorGuidelines" rel="documentation"/>
     <author>
       <name>Al-Jamiah</name>
-      <email>editor@aljamiah.org</email>
-      <uri>www.aljamiah.org</uri>
+      <email>editor@aljamiah.or.id</email>
+      <uri>www.aljamiah.or.id</uri>
     </author>
     <category citation-format="note"/>
     <issn>0126-012X</issn>
@@ -492,7 +492,7 @@
           </if>
         </choose>
       </group>
-      <text variable="DOI" prefix=" [https://doi.org/" suffix=" ]"/>
+      <text variable="DOI" prefix=", https://doi.org/"/>
     </layout>
   </bibliography>
 </style>
